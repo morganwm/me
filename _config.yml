@@ -16,11 +16,12 @@
 title: Morgan
 email: morgan.wm5@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Contact me with the Links to the Left
+  Description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "morganwatsonmorris.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mw_morris
-github_username:  morganwm
+github_username: morganwm
+linkedin_username: morgan-watson-morris-086a095b
 
 # Build settings
 markdown: kramdown
